@@ -57,17 +57,6 @@ Jeder Benutzer erhält automatisch bei Registrierung einen **API-Key**. Dieser k
 - API-Zugriff nur mit gültigem Key
 - E-Mail-Verifizierung bei der Registrierung
 
----
-
-## 🔧 Installation
-
-1. Webserver mit PHP 8.x und MySQL bereitstellen
-2. Projektordner in `/www` (z. B. bei KeyHelp) kopieren
-3. Datenbank anlegen und `config/settings.php` einrichten
-4. Erste Anmeldung mit Admin-Zugang
-5. Optional: C++-Client installieren (in Zukunft)
-
----
 
 ## 📍 Live-Tracking (in Vorbereitung)
 
