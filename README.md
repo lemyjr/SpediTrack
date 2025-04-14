@@ -45,7 +45,7 @@
 ## 📦 API
 
 Die API ist erreichbar unter:
-/api/v1/
+`/api/v1/`
 Jeder Benutzer erhält automatisch bei Registrierung einen **API-Key**. Dieser kann über das Dashboard angezeigt oder erneuert werden.
 
 ---
